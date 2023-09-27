@@ -1,6 +1,13 @@
 # Minha API  
 
-Disciplina **Desenvolvimento Back End Avançado e Arquitetura de Software** 
+
+Api externa:
+
+Quote: http://api.forismatic.com/api/1.0/
+
+Fun Fact: https://uselessfacts.jsph.pl/api/v2/facts/random?language=en
+
+**Desenvolvimento Back End Avançado e Arquitetura de Software** 
 
 ## Como executar através do Docker
 
